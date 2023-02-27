@@ -1,6 +1,8 @@
 # Entrefios - Site da Empresa
 
 > Site da empresa [Entrefios](https://www.instagram.com/entrefiosstm/), desenvolvido com Next 13, TypeScript e Sass.
+>
+> Onde você poderá encontrar uma variedade de produtos feitos com fio de malha. Produtos cuidadosamente tecidos à mão com habilidade e carinho, resultando em peças únicas e duráveis. Se você está procurando por algo especial para decorar sua casa ou presentear alguém especial, esse é o lugar certo!
 
 ![Logo](./public/logo_para_site.png)
 
