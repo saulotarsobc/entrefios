@@ -2,6 +2,8 @@
 
 > Este é o repositório do site da empresa Entrefios, desenvolvido com Next 13, TypeScript e Sass.
 
+![Logo](./public/logo_para_site.png)
+
 ## Como rodar o projeto
 
 1. Clone este repositório
