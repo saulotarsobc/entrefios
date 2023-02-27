@@ -1,0 +1,20 @@
+header#header {
+    height: 60px;
+    background-color: aquamarine;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 5px;
+    div#logo {
+        font-size: 30px;
+    }
+    nav {
+        a {
+            background-color: white;
+            padding: 5px 12px;
+            &+a {
+                margin-left: 10px;
+            }
+        }
+    }
+}
