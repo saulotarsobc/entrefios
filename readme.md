@@ -1,6 +1,6 @@
 # Entrefios - Site da Empresa
 
-> Este é o repositório do site da empresa Entrefios, desenvolvido com Next 13, TypeScript e Sass.
+> Site da empresa [Entrefios](https://www.instagram.com/entrefiosstm/), desenvolvido com Next 13, TypeScript e Sass.
 
 ![Logo](./public/logo_para_site.png)
 
