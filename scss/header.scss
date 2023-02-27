@@ -1,19 +1,22 @@
 header#header {
     height: 60px;
-    background-color: aquamarine;
+    background-color: #ffffff;
     display: flex;
     align-items: center;
     justify-content: space-between;
     padding: 0 5px;
     div#logo {
         font-size: 30px;
+        height: 50px;
+        width: 180px;
     }
     nav {
         a {
-            background-color: white;
+            background-color: #8574A3;
+            color: white;
             padding: 5px 12px;
             border-radius: 5px;
-            transition: all .3s ease-in;
+            transition: all 0.3s ease-in;
             &+a {
                 margin-left: 10px;
             }
