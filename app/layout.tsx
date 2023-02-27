@@ -1,5 +1,5 @@
 import "@/scss/main.scss";
-import Header from "./Components/Header";
+import Header from "./components/Header";
 export const metadata = {
   title: "Entrefios - STM",
   description:
