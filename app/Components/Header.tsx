@@ -1,5 +1,5 @@
 import Link from "next/link";
-import Logo from "@/public/logo_para_site2.svg";
+import Logo from "../../public/logo_para_site2.svg";
 import Image from "next/image";
 
 export default function Header() {
