@@ -1,7 +1,6 @@
-
 # Entrefios - Site da Empresa
 
-Este é o repositório do site da empresa Entrefios, desenvolvido com Next 13, TypeScript e Sass.
+> Este é o repositório do site da empresa Entrefios, desenvolvido com Next 13, TypeScript e Sass.
 
 ## Como rodar o projeto
 
@@ -27,4 +26,4 @@ Este é o repositório do site da empresa Entrefios, desenvolvido com Next 13, T
 
 ## Licença
 
-Este projeto está licenciado sob a licença MIT. Consulte o arquivo [LICENSE](./license.md 'linceça MIT') para obter mais detalhes.
+Este projeto está licenciado sob a licença MIT. Consulte o arquivo [LICENSE](./license.md "linceça MIT") para obter mais detalhes.
