@@ -6,8 +6,8 @@ export default async function page() {
   return (
     <main id="produtos">
       <h1>Página de Produtos</h1>
-      {produtos.map(({ nome }: ProdutoType, index) => (
-        <Produto key={index} nome={nome} />
+      {produtos.map(({ nome, preco }: ProdutoType, index) => (
+        <Produto key={index} nome={nome} preco={preco}/>
       ))}
     </main>
   );

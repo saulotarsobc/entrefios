@@ -1,14 +1,18 @@
 [
     {
-        "nome": "Bolsa 1"
+        "nome": "Bolsa 1",
+        "preco": "120,22"
     },
     {
-        "nome": "Bolsa 2"
+        "nome": "Bolsa 2",
+        "preco": "120,22"
     },
     {
-        "nome": "Bolsa 3"
+        "nome": "Bolsa 3",
+        "preco": "120,22"
     },
     {
-        "nome": "Bolsa 4"
+        "nome": "Bolsa 4",
+        "preco": "120,22"
     }
 ]
