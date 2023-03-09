@@ -1,4 +1,4 @@
-import Produto from "../Components/Produto";
+import Produto from "../../Components/Produto";
 // import produtos from "./produtos.json";
 import { ProdutoType } from "@/types";
 
